@@ -33,7 +33,7 @@
     "@types/mdast": "^4.0.4",
     "@types/node": "^22.18.1",
     "@typescript-eslint/parser": "^8.51.0",
-    "astro": "^6.0.0-beta.8",
+    "astro": "^6.0.0-beta.14",
     "astro-eslint-parser": "^1.2.2",
     "astro-og-canvas": "^0.10.0",
     "canvaskit-wasm": "^0.40.0",
